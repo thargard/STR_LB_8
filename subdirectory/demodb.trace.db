@@ -1,0 +1,6 @@
+2022-07-22 13:51:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TYPES" not found (this database is empty); SQL statement:
+select pettype0_.id as id1_3_, pettype0_.name as name2_3_ from types pettype0_ [42104-214]
+2022-07-22 13:52:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TYPES" not found (this database is empty); SQL statement:
+select pettype0_.id as id1_3_, pettype0_.name as name2_3_ from types pettype0_ [42104-214]
